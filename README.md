@@ -1,1 +1,1 @@
-# spam-bot
+# A simple spam bot
